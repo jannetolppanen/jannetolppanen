@@ -16,7 +16,6 @@ Based near Turku
 yksi
 <i class="devicon-inkscape-plain"></i>
 kaksi
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" />
 
           
           
