@@ -1,6 +1,4 @@
-<html>
-          
-</html>
+
 ## Janne Tolppanen - 2nd year student
 ### Bachelor’s Degree Programme in Information and Communications Technology @ LAB University of Applied Sciences
 
