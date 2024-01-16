@@ -11,6 +11,7 @@ Languages:
 - English
 
 Based near Turku
+<--
 ## Favorite Tech
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -21,6 +22,7 @@ Based near Turku
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg"/>&nbsp;
           
   <div>
+  -->
 
           
 
