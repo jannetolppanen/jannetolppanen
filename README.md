@@ -5,7 +5,7 @@
 - Languages: Finnish, English
 - Located near Turku, Finland
 
-Skills
+#### Technologies
 <!-- https://devicon.dev/ -->
 
 
