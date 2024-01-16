@@ -13,7 +13,9 @@ Languages:
 Based near Turku
 <html>
      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-            <i class="devicon-angularjs-plain"></i>
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg" />
+          
                
 </html>
 
