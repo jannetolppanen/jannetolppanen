@@ -1,17 +1,13 @@
-## Janne Tolppanen
-### Studying for a Bachelor’s Degree Programme in Information and Communications Technology @ LAB University of Applied Sciences
+## Janne Tolppanen - 2nd year student
+Bachelor’s Degree Programme in Information and Communications Technology @ LAB University of Applied Sciences
 
-<!--
-**jannetolppanen/jannetolppanen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interests:
+- Software engineering
+- Networks
 
-Here are some ideas to get you started:
+Languages:
+- Finnish
+- English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Based near Turku
+
