@@ -1,5 +1,5 @@
-# Janne Tolppanen
-## Studying for a **Bachelor’s Degree Programme in Information and Communications Technology** @ LAB University of Applied Sciences
+## Janne Tolppanen
+### Studying for a Bachelor’s Degree Programme in Information and Communications Technology @ LAB University of Applied Sciences
 
 <!--
 **jannetolppanen/jannetolppanen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
