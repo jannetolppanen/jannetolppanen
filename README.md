@@ -1,4 +1,4 @@
-## Janne Tolppanen - 2nd year student
+## Janne Tolppanen - Student
 ### Bachelor’s Degree Programme in Information and Communications Technology @ LAB University of Applied Sciences
 
 - Interested in software engineering and networks
