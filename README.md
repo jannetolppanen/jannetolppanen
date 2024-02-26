@@ -4,7 +4,6 @@
 - Interested in software engineering and networks
 - Languages: Finnish, English
 - Located near Turku, Finland
-- 
 <!-- https://devicon.dev/ -->
 
 ### Languages
